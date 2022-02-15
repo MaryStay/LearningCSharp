@@ -1,0 +1,2 @@
+# LearningCSharp
+изучение c# 
